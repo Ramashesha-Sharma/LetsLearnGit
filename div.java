@@ -1,1 +1,4 @@
 Sample code
+{
+	Hello
+}
